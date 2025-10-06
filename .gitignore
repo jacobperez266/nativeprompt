@@ -5,3 +5,4 @@ build/
 dist/
 tmp/
 coverage/
+.pytest_cache/
